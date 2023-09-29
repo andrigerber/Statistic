@@ -1,2 +1,2 @@
 # Statistic
-Beta distribution app
+- Beta distribution app
