@@ -5,7 +5,7 @@ account: andri-gerber
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 9881775
-bundleId: 7690109
+bundleId: 7811083
 url: https://andri-gerber.shinyapps.io/Beta/
 version: 1
 asMultiple: FALSE
